@@ -1,6 +1,5 @@
-<h1 align="left">Hey 👋 </h1>
-
-###
+<h1 align="left">Hey 👋 Im Shifa</h1>
+##
 
 <p align="left">My name is Shifa and I'm a Computer Science Student</p>
 
