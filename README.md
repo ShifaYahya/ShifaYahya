@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
--computer science student<br>-Transforming caffeine into code, one commit at a time! ☕💻 #CodeFuel<br>-looking for coop and training oppurunities
+-computer science student<br>-Transforming caffeine into code, one commit at a time! ☕💻 #CodeFuel<br>-looking for coop and training oppurunities<br>-Currently Learning: Python, Java, AWS, Linux
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ShifaYahya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShifaYahya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShifaYahya yahya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShifaYahya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShifaYahya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
