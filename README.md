@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 I'm Shifa</h1>
 
 
-# 💫 About Me:
+#  About Me:
 -computer science student<br>-Transforming caffeine into code, one commit at a time! ☕💻 #CodeFuel<br>-looking for coop and training oppurunities<br>-Currently Learning: Python, Java, AWS, Linux
 
 
